@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m an Android developer passionate about creati
 
 ## 💼 Projects
 
-### [Care Circle](https://github.com/MohamedAbbas289/Care-Circle)
+### 🏥 [Care Circle](https://github.com/MohamedAbbas289/Care-Circle)
 An Android application fostering communication between patients and doctors with robust features such as:
 - Medical information browsing
 - Appointment scheduling
@@ -34,18 +34,18 @@ An Android application fostering communication between patients and doctors with
 - User account handling
 - Technologies: Kotlin, Firebase, Alan AI, Git
 
-### [Chat App](https://github.com/MohamedAbbas289/chat-application)
+### 💬 [Chat App](https://github.com/MohamedAbbas289/chat-application)
 Interactive chat application enabling users to create chat rooms.
 - Architecture: MVVM
 - Backend: Firebase Firestore for real-time database, Firebase Authentication
 
-### [Todo App](https://github.com/MohamedAbbas289/todo-list-app)
+### 🔖 [Todo App](https://github.com/MohamedAbbas289/todo-list-app)
 A productivity app allowing users to manage tasks with features like:
 - Create, update, delete tasks
 - Date preferences and filtering options
 - Local storage using Room
 
-### [News App](https://github.com/MohamedAbbas289/News-app)
+### 📰 [News App](https://github.com/MohamedAbbas289/News-app)
 A modern news application offering a tailored browsing experience.
 - Features: Category and source filtering
 - Technologies: MVVM, Retrofit, Hilt, Repository Pattern, Kotlin Coroutines
