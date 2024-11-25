@@ -64,6 +64,6 @@ A modern news application offering a tailored browsing experience.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my projects, and don’t hesitate to reach out for collaboration or inquiries.
+Feel free to explore my projects, and don’t hesitate to reach out for collaboration or inquiries.
 
 
